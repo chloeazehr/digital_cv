@@ -64,9 +64,10 @@
 ---
 
 ## Awards & Grants  
-- **CU Boulder Travel Grant** (2023): For Louisiana State University Graduate History Conference  
-- **URCA Grant** (2020–2021): Funded research on enslaved resistance narratives in colonial Jamaica  
-- **Keith E. Vineyard Short Story Award**: Second Place, UCSB (2019)  
+- **Rocky Mountain Interdisciplinary History Conference Paper Prize Winner** (2024)
+- **CU Boulder Travel Grant** (2023), presented research at Louisiana State University Graduate History Conference  
+- **URCA Grant** (2020–2021), Funded research on enslaved resistance and gender in colonial Jamaica  
+- **Keith E. Vineyard Short Story Award**, Second Place, UCSB (2019)  
 - **High Honors and Distinction in Major**, UCSB (2021)  
 
 ---
