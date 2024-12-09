@@ -45,12 +45,12 @@
 **Graduate Research Mentorship** — CU Boulder (Summer 2023)  
 - Collaborated on the W.E.B. Du Bois Anti-Slavery Archive using digital tools for dataset creation and visualization.  
 
-**Undergraduate Honors Thesis** — UCSB (2020–2021)  
+**Undergraduate Honors Thesis** — UC Santa Barbara (2020–2021)  
 - Analyzed Tacky’s Revolt and its implications on socio-economic structures and racialized womanhood in Jamaica.  
 
 **UCSA Internship and Public Policy Research Project** — UC Sacramento & UC Davis (Summer 2020)
 - Title: *“No Straight Answers: How Housing Insecurity Affects Retention and Achievement of LGBTQIA+ Students in the University of California System.”*  
-- Collaborated with the University of California Student Association, UC Davis, and UC Center Sacramento.  
+- Interned with the University of California Student Association 
 
 ---
 
