@@ -1,12 +1,12 @@
 # Chloe Zehr  
-[GitHub](https://github.com/chloeazehr?tab=repositories) | [MA Thesis Website](https://chloeazehr.github.io/phrasing-insurrection/) 
+[GitHub](https://github.com/chloeazehr?tab=repositories) | [MA Thesis Website](https://chloeazehr.github.io/phrasing-insurrection/)  
 
 ---
 
 ## Education  
 **University of Colorado Boulder** — Boulder, CO  
-- **M.A. in History** (December 2024)  
-  - Certificate in Digital Humanities (December 2024)
+- **M.A. in History** (Expected December 2024)  
+  - Certificate in Digital Humanities (Expected May 2024)  
   - Thesis: *“Phrasing Insurrection: A Computational Study of the Grammars of Collective Enslaved Resistance in the South Carolina Gazette and Virginia Gazette (1732-1775)”*
 
 **University of California, Santa Barbara** — Santa Barbara, CA  
@@ -34,14 +34,16 @@
 ## Research Experience  
 **MA Thesis Research** (2022–Present)  
 - Developed computational methods to analyze passive voice and word co-occurrence networks in 18th-century newspapers.  
-- Leveraged SketchEngine and UDPIPE for linguistic analysis of texts on enslaved resistance.  
+- Leveraged R, Python, and computational corpus linguistic platforms like Sketch Engine for linguistic analysis of texts regarding enslaved resistance.  
 
-**Digital Slavery Research Lab Mentorship Program** — CU Boulder (Summer 2023)  
+**Graduate Research Mentorship**: CU Boulder (Summer 2024) 
+- Conducted data design and exploration of 20th-century congressional hearings on wilderness issues.  
+- Analyzed over 400 testimonies, including those from environmental organizations, timber industry representatives, indigenous communities, and children, to critically extrapolate data from primary sources.  
+- Enhanced metadata by integrating policy agenda codes and restructuring subject/sub-category hierarchies to improve data usability for future research.  
+- Gained hands-on experience in managing and annotating qualitative data for computational historical research.
+
+**Graduate Research Mentorship** — CU Boulder (Summer 2023)  
 - Collaborated on the W.E.B. Du Bois Anti-Slavery Archive using digital tools for dataset creation and visualization.  
-
-**Self-Directed Graduate Research Paper** — CU Boulder (Fall 2022)  
-- Title: *“‘Prudence and our Safety forbids’: Examining Reports of Enslaved Resistance Published in the South Carolina Gazette from 1730-1770.”*  
-- Advised by Dr. Elizabeth Fenn, explored reporting patterns and rhetorical strategies in colonial newspapers.  
 
 **Undergraduate Honors Thesis** — UCSB (2020–2021)  
 - Analyzed Tacky’s Revolt and its implications on socio-economic structures and racialized womanhood in Jamaica.  
