@@ -80,8 +80,8 @@
 ---
 
 ## Certifications  
-- **Digital Humanities Graduate Certificate** (In Progress)  
-- **Research Data Bootcamp Micro-Credential** ([View Credential](https://www.credly.com/badges/a6a663de-cab5-485f-b484-5cd616ce866a))  
+- **Digital Humanities Graduate Certificate**, 2024  
+- **Research Data Bootcamp Micro-Credential**, 2023 ([View Credential](https://www.credly.com/badges/a6a663de-cab5-485f-b484-5cd616ce866a))  
 
 ---
 
