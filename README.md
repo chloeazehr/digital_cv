@@ -5,8 +5,8 @@
 
 ## Education  
 **University of Colorado Boulder** — Boulder, CO  
-- **M.A. in History** (Expected December 2024)  
-  - Certificate in Digital Humanities (Expected May 2024)  
+- **M.A. in History** (December 2024)  
+  - Certificate in Digital Humanities (December 2024)
   - Thesis: *“Phrasing Insurrection: A Computational Study of the Grammars of Collective Enslaved Resistance in the South Carolina Gazette and Virginia Gazette (1732-1775)”*
 
 **University of California, Santa Barbara** — Santa Barbara, CA  
