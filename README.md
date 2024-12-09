@@ -58,8 +58,8 @@
 **Teaching Assistantships, University of Colorado Boulder**  
 - **HIST 1011**: Greeks, Romans, Kings, Crusaders (Fall 2022)  
 - **HIST 4830**: Human Trafficking in Global Perspective (Spring 2023)  
-- **AHUM 1825**: Intro to Data Science for Humanities (Fall 2023, Fall 2024)  
-- **HIST 1025**: US History from 1865 to Present (Spring 2024)  
+- **AHUM 1825**: Intro to Data Science for Humanities (Fall 2023, Fall 2024) — taught three recitation periods in Fall 2023
+- **HIST 1025**: US History from 1865 to Present (Spring 2024) — taught two recitation periods
 
 ---
 
