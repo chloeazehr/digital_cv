@@ -36,7 +36,7 @@
 - Developed computational methods to analyze passive voice and word co-occurrence networks in 18th-century newspapers.  
 - Leveraged R, Python, and computational corpus linguistic platforms like Sketch Engine for linguistic analysis of texts regarding enslaved resistance.  
 
-**Graduate Research Mentorship**: CU Boulder (Summer 2024) 
+**Graduate Research Mentorship** — CU Boulder (Summer 2024) 
 - Conducted data design and exploration of 20th-century congressional hearings on wilderness issues.  
 - Analyzed over 400 testimonies, including those from environmental organizations, timber industry representatives, indigenous communities, and children, to critically extrapolate data from primary sources.  
 - Enhanced metadata by integrating policy agenda codes and restructuring subject/sub-category hierarchies to improve data usability for future research.  
@@ -48,7 +48,7 @@
 **Undergraduate Honors Thesis** — UCSB (2020–2021)  
 - Analyzed Tacky’s Revolt and its implications on socio-economic structures and racialized womanhood in Jamaica.  
 
-**UCSA Internship and Public Policy Research Project** — UC Sacramento (Summer 2020)  
+**UCSA Internship and Public Policy Research Project** — UC Sacramento & UC Davis (Summer 2020)
 - Title: *“No Straight Answers: How Housing Insecurity Affects Retention and Achievement of LGBTQIA+ Students in the University of California System.”*  
 - Collaborated with the University of California Student Association, UC Davis, and UC Center Sacramento.  
 
