@@ -39,7 +39,6 @@
 **Graduate Research Mentorship** — CU Boulder (Summer 2024) 
 - Conducted data design and exploration of 20th-century congressional hearings on wilderness issues.  
 - Analyzed over 400 testimonies, including those from environmental organizations, timber industry representatives, indigenous communities, and children, to critically extrapolate data from primary sources.  
-- Enhanced metadata by integrating policy agenda codes and restructuring subject/sub-category hierarchies to improve data usability for future research.  
 - Gained hands-on experience in managing and annotating qualitative data for computational historical research.
 
 **Graduate Research Mentorship** — CU Boulder (Summer 2023)  
