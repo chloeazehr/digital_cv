@@ -32,7 +32,7 @@
 ---
 
 ## Research Experience  
-**MA Thesis Research** (2022–Present)  
+**MA Thesis Research** (2022–2024)  
 - Developed computational methods to analyze passive voice and word co-occurrence networks in 18th-century newspapers.  
 - Leveraged R, Python, and computational corpus linguistic platforms like Sketch Engine for linguistic analysis of texts regarding enslaved resistance.  
 
