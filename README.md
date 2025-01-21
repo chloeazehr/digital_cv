@@ -1,8 +1,8 @@
 # Chloë A. Zehr
 
+**[LinkedIn](https://www.linkedin.com/in/chloe-zehr-3a855526b/) | [GitHub](https://github.com/chloeazehr)**  
 **Email:** chloeazehr@gmail.com  
 **Phone:** (831) 332-2174  
-**[LinkedIn](https://www.linkedin.com/in/chloe-zehr-3a855526b/) | [GitHub](https://github.com/chloeazehr)**  
 **Address:** 745 E. South Boulder Rd., Apt. C205, Louisville, CO, 80027  
 **Pronouns:** She/They
 
