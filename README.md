@@ -1,6 +1,3 @@
-# Chloe Zehr  
-[GitHub](https://github.com/chloeazehr?tab=repositories) | [MA Thesis Website](https://chloeazehr.github.io/phrasing-insurrection/)  
-
 # Chloë A. Zehr
 
 **Email:** chloeazehr@gmail.com  
