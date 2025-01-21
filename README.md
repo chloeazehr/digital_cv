@@ -1,89 +1,120 @@
 # Chloe Zehr  
 [GitHub](https://github.com/chloeazehr?tab=repositories) | [MA Thesis Website](https://chloeazehr.github.io/phrasing-insurrection/)  
 
----
+# Chloë A. Zehr
 
-## Education  
-**University of Colorado Boulder** — Boulder, CO  
-- **M.A. in History** (December 2024)  
-  - Certificate in Digital Humanities (December 2024)  
-  - Thesis: *“Phrasing Insurrection: A Computational Study of the Grammars of Collective Enslaved Resistance in the South Carolina Gazette and Virginia Gazette (1732-1775)”*
+**Email:** chloeazehr@gmail.com  
+**Phone:** (831) 332-2174  
+**Links:** [LinkedIn](#), [GitHub](#), [Digital CV](#)  
 
-**University of California, Santa Barbara** — Santa Barbara, CA  
-- **B.A. in History** (March 2021)  
-  - Undergraduate Honors Thesis: *“The Coromantee and the Venus: Exploring the Role of Slave Revolt in Constructions of Black and Mixed-Race Womanhood in 18th-Century Jamaica”*  
-  - High Honors and Distinction in Major  
+745 E. South Boulder Rd., Apt. C205  
+Louisville, CO, 80027  
 
 ---
 
-## Skills  
-### Programming & Tools  
-- Python, R, UDPIPE, SketchEngine, Leaflet, Zotero  
-- Text Mining, Natural Language Processing, Data Visualization, Digital Archives  
+## **Education**
 
-### Research & Analysis  
-- Computational Text Analysis, Historical Research, Linguistic Analysis  
-- Proficiency with digital archival platforms (e.g., ArchiveSpace)  
+### Master of Arts in History  
+**University of Colorado Boulder** | *Boulder, CO*  
+**GPA:** 4.0/4.0  
+- **Thesis:** *Phrasing Insurrection: A Computational Study of the Grammars of Collective Enslaved Resistance in the South Carolina Gazette and Virginia Gazette (1732-1775)*  
+*December 2024*
 
-### Project Management  
-- Collaborative Tools: Trello, Slack  
-- Strategic Planning, Data Interpretation, Effective Communication  
-
----
-
-## Research Experience  
-**MA Thesis Research** (2022–2024)  
-- Developed computational methods to analyze passive voice and word co-occurrence networks in 18th-century newspapers.  
-- Leveraged R, Python, and computational corpus linguistic platforms like Sketch Engine for linguistic analysis of texts regarding enslaved resistance.  
-
-**Graduate Research Mentorship** — CU Boulder (Summer 2024) 
-- Conducted data design and exploration of 20th-century congressional hearings on wilderness issues.  
-- Analyzed over 400 testimonies, including those from environmental organizations, timber industry representatives, indigenous communities, and children, to critically extrapolate data from primary sources.  
-- Gained hands-on experience in managing and annotating qualitative data for computational historical research.
-
-**Graduate Research Mentorship** — CU Boulder (Summer 2023)  
-- Collaborated on the W.E.B. Du Bois Anti-Slavery Archive using digital tools for dataset creation and visualization.  
-
-**Undergraduate Honors Thesis** — UC Santa Barbara (2020–2021)  
-- Analyzed Tacky’s Revolt and its implications on socio-economic structures and racialized womanhood in Jamaica.  
-
-**UCSA Internship and Public Policy Research Project** — UC Sacramento & UC Davis (Summer 2020)
-- Title: *“No Straight Answers: How Housing Insecurity Affects Retention and Achievement of LGBTQIA+ Students in the University of California System.”*  
-- Interned with the University of California Student Association 
+### Bachelor of Arts in History  
+**University of California Santa Barbara** | *Santa Barbara, CA*  
+**GPA:** 3.8/4.0 (High Honors and Distinction in Major)  
+- **Thesis:** *The Coromantee and the Venus: Exploring the Role of Slave Revolt in Constructions of Black and Mixed-Race Womanhood in Eighteenth-Century Jamaica*  
+*March 2021*
 
 ---
 
-## Teaching Experience  
-**Teaching Assistantships, University of Colorado Boulder**  
-- **HIST 1011**: Greeks, Romans, Kings, Crusaders (Fall 2022)  
-- **HIST 4830**: Human Trafficking in Global Perspective (Spring 2023)  
-- **AHUM 1825**: Intro to Data Science for Humanities (Fall 2023, Fall 2024) — taught three recitation periods in Fall 2023
-- **HIST 1025**: US History from 1865 to Present (Spring 2024) — taught two recitation periods
+## **Certifications**
+
+- **Digital Humanities Graduate Certificate**  
+  University of Colorado Boulder  
+  *December 2024*
+
+- **Research Data Bootcamp Micro-Credential**  
+  University of Colorado Boulder  
+  *May 2023*
+
+- **200 Hour Yoga Teacher Training**  
+  Balanced Action Yoga  
+  *May 2015*
 
 ---
 
-## Awards & Grants  
-- **Rocky Mountain Interdisciplinary History Conference Paper Prize Winner** (2024)
-- **CU Boulder Travel Grant** (2023), presented research at Louisiana State University Graduate History Conference  
-- **URCA Grant** (2020–2021), Funded research on enslaved resistance and gender in colonial Jamaica  
-- **Keith E. Vineyard Short Story Award**, Second Place, UCSB (2019)  
-- **High Honors and Distinction in Major**, UCSB (2021)  
+## **Research and Work Experience**
+
+### **Master’s Thesis**  
+*University of Colorado Boulder*  
+- Developed a 150-page thesis integrating digital history, data science, and digital humanities.  
+- Designed methods combining text mining, NLP in R, and LLMs to analyze historical texts.  
+- Published findings and accompanying code on GitHub Pages.  
+- Presented research at major conferences.  
+*August 2022 – December 2024*
+
+### **Teaching Assistant – AHUM 1825: Interdisciplinary Data Science**  
+*University of Colorado Boulder*  
+- Delivered recitation sessions on data analysis, visualization, and coding in R.  
+- Designed workshops emphasizing AI ethics, data design, and interdisciplinary applications.  
+*August 2023 – December 2024*
+
+### **Graduate Research Mentorship**  
+*University of Colorado Boulder*  
+- Annotated U.S. Congressional Hearings and developed topic models using Python.  
+*May 2024 – August 2024*
+
+### **AHUM 1825 Summer Research Assistant**  
+*University of Colorado Boulder*  
+- Updated course materials and coding exercises for an NSF-funded course.  
+*May 2024 – August 2024*
+
+### **Digital Slavery Research Lab Intern**  
+*University of Colorado Boulder*  
+- Maintained USAntiSlaveryLaws.org and contributed to digital slavery research.  
+*2024, 2023, 2021*
+
+### **Teaching Assistant – HIST 1025: The U.S. Since 1865**  
+*University of Colorado Boulder*  
+- Led discussions on U.S. history themes, provided feedback on essays, and facilitated critical thinking.  
+*January 2024 – May 2024*
+
+### **History Graduate Student Association Secretary**  
+*University of Colorado Boulder*  
+- Organized events, managed budgets, and acted as a liaison between students and faculty.  
+*September 2023 – May 2024*
+
+### **Processing Assistant**  
+*Norlin Library Archives, University of Colorado Boulder*  
+- Revised and updated the Western Federation of Miners collection in ArchiveSpace.  
+*May 2023 – August 2023*
 
 ---
 
-## Projects & Publications  
-- **Online Database**: Directed the creation of [U.S. Anti-Slavery Laws Database](https://usantislaverylaws.org/public/index.php).  
-- **Text Mining Project**: Analyzed grammatical patterns in colonial newspaper reports of enslaved resistance ([GitHub link](https://github.com/chloeazehr?tab=repositories)).  
-- **Portfolio Website**: Developed and maintain [MA Thesis Website](https://chloeazehr.github.io/phrasing-insurrection/).  
+## **Conferences**
+
+- **Rocky Mountain Interdisciplinary History Conference**  
+  *Presented research paper on enslaved resistance in the Virginia Gazette.*  
+  *September 2024*
+
+- **Louisiana State University Graduate History Conference**  
+  *Presented on enslaved resistance in the South Carolina Gazette.*  
+  *March 2023*
 
 ---
 
-## Certifications  
-- **Digital Humanities Graduate Certificate**, 2024  
-- **Research Data Bootcamp Micro-Credential**, 2023 ([View Credential](https://www.credly.com/badges/a6a663de-cab5-485f-b484-5cd616ce866a))  
+## **Awards & Grants**
+
+- **First Place Paper Prize** | *Rocky Mountain Interdisciplinary History Conference* | September 2024  
+- **Graduate Professional and Student Government Travel Grant** | *University of Colorado Boulder* | March 2023  
+- **Undergraduate Research and Activities Grant (URCA)** | *UC Santa Barbara* | October 2020  
 
 ---
 
-## Languages  
-- English (Native)  
+## **Skills**
 
+- **Programming and Tools:** R, Python, Jupyter Labs, Linux, Tableau, Shiny, Adobe Creative Cloud.  
+- **Digital Humanities:** NLP, computational corpus linguistics, QGIS, ArcGIS StoryMaps.  
+- **Project Management:** Database creation, metadata processing, ArchiveSpace.  
+- **Communication Tools:** Microsoft Suite, Google Suite.  
