@@ -96,7 +96,7 @@ GPA: 3.8/4.0
 
 ### Graduate Research Mentorship  
 **University of Colorado Boulder**  
-- Co-directed the creation of the W.E.B. Du Bois Anti-Slavery Laws Archive with Dr. Henry Lovejoy.  
+- Co-directed the creation of the W.E.B. Du Bois [Anti-Slavery Laws Archive](https://usantislaverylaws.org/public/index.php) with Dr. Henry Lovejoy.  
 - Processed metadata for over 300 digitized legislative texts to enhance accessibility.  
 *May 2023 – August 2023*
 
