@@ -3,8 +3,7 @@
 **[LinkedIn](https://www.linkedin.com/in/chloe-zehr-3a855526b/) | [GitHub](https://github.com/chloeazehr)**  
 **Email:** chloeazehr@gmail.com  
 **Phone:** (831) 332-2174  
-**Location:** Louisville, CO
-
+**Location:** Louisville, CO 
 **Pronouns:** She/They
 
 ---
