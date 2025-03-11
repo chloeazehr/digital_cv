@@ -4,6 +4,7 @@
 **Email:** chloeazehr@gmail.com  
 **Phone:** (831) 332-2174  
 **Location:** Louisville, CO
+
 **Pronouns:** She/They
 
 ---
